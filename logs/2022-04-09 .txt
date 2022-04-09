@@ -1,0 +1,106 @@
+[09-Apr-2022 18:32:43 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('products')
+#1 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\Core\Router.php' on line 122
+[09-Apr-2022 19:02:39 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('products')
+#1 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\Core\Router.php' on line 122
+[09-Apr-2022 19:02:44 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('products')
+#1 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\Core\Router.php' on line 122
+[09-Apr-2022 19:02:49 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('products')
+#1 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\Core\Router.php' on line 122
+[09-Apr-2022 19:02:49 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('products')
+#1 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\Core\Router.php' on line 122
+[09-Apr-2022 19:02:49 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('products')
+#1 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\Core\Router.php' on line 122
+[09-Apr-2022 19:02:50 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('products')
+#1 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\Core\Router.php' on line 122
+[09-Apr-2022 19:02:50 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('products')
+#1 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\Core\Router.php' on line 122
+[09-Apr-2022 19:02:50 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('products')
+#1 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\Core\Router.php' on line 122
+[09-Apr-2022 19:02:50 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('products')
+#1 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\Core\Router.php' on line 122
+[09-Apr-2022 19:02:51 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('products')
+#1 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\Core\Router.php' on line 122
+[09-Apr-2022 19:03:24 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('products')
+#1 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\Core\Router.php' on line 122
+[09-Apr-2022 19:04:08 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('products')
+#1 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\Core\Router.php' on line 122
+[09-Apr-2022 19:04:09 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('products')
+#1 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\Core\Router.php' on line 122
+[09-Apr-2022 19:04:09 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('products')
+#1 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\Core\Router.php' on line 122
+[09-Apr-2022 19:04:09 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('products')
+#1 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\Core\Router.php' on line 122
+[09-Apr-2022 19:04:09 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('products')
+#1 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\Core\Router.php' on line 122
+[09-Apr-2022 19:04:10 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('products')
+#1 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\Core\Router.php' on line 122
+[09-Apr-2022 19:04:22 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('posts')
+#1 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\Core\Router.php' on line 122
+[09-Apr-2022 19:04:50 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('products')
+#1 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\Core\Router.php' on line 122
+[09-Apr-2022 19:05:46 Europe/Berlin] Uncaught exception: 'Twig\Error\LoaderError' with message 'Unable to find template "Home/inde.html" (looked into: C:\xampp\htdocs\mvc\daveh/App/Views).'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('Home/inde.html')
+#1 C:\xampp\htdocs\mvc\daveh\vendor\twig\twig\src\Environment.php(261): Twig\Loader\FilesystemLoader->getCacheKey('Home/inde.html')
+#2 C:\xampp\htdocs\mvc\daveh\vendor\twig\twig\src\Environment.php(309): Twig\Environment->getTemplateClass('Home/inde.html')
+#3 C:\xampp\htdocs\mvc\daveh\vendor\twig\twig\src\Environment.php(277): Twig\Environment->load('Home/inde.html')
+#4 C:\xampp\htdocs\mvc\daveh\Core\View.php(47): Twig\Environment->render('Home/inde.html', Array)
+#5 C:\xampp\htdocs\mvc\daveh\App\Controllers\Home.php(47): Core\View::renderTemplate('Home/inde.html', Array)
+#6 [internal function]: App\Controllers\Home->indexAction()
+#7 C:\xampp\htdocs\mvc\daveh\Core\Controller.php(34): call_user_func_array(Array, Array)
+#8 C:\xampp\htdocs\mvc\daveh\Core\Router.php(112): Core\Controller->__call('index', Array)
+#9 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('')
+#10 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\vendor\twig\twig\src\Loader\FilesystemLoader.php' on line 227
+[09-Apr-2022 19:10:29 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('ldkjsf')
+#1 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\Core\Router.php' on line 122
+[09-Apr-2022 19:10:30 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('ldkjsf')
+#1 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\Core\Router.php' on line 122
+[09-Apr-2022 19:10:46 Europe/Berlin] Uncaught exception: 'Exception' with message 'Method fdfAction not found in controller App\Controllers\Posts'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\Core\Router.php(112): Core\Controller->__call('fdf', Array)
+#1 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('posts/fdf')
+#2 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\Core\Controller.php' on line 39
