@@ -54,7 +54,7 @@ class Error
             $message = "Uncaught exception: '" . get_class($exception) . "'";
             $message .= " with message '" . $exception->getMessage() . "'";
             $message .= "\nStack trace: " . $exception->getTraceAsString();
-            $message .= "\nTrown in '" . $exception->getFile() . "' on line " . $exception->getLine();
+            $message .= "\nTrown in '" . $exception->getFile() . "' on line " . $exception->getLine() . "\n";
 
             error_log($message);
             View::renderTemplate("$code.html");

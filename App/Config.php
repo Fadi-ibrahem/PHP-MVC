@@ -17,7 +17,7 @@ class Config
      * Database name
      * @var string
      */
-    const DB_NAME = 'mvc';
+    const DB_NAME = 'daveh_mvc';
 
     /**
      * Database user
@@ -35,5 +35,5 @@ class Config
      * Show or hide error messages on screen
      * @var boolean
      */
-    const SHOW_ERRORS = false;
+    const SHOW_ERRORS = true;
 }

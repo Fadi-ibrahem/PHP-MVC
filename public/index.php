@@ -4,21 +4,15 @@
  * Front Controller
  */
 
-/**
- * Composer autoloader
- */
+// Composer autoloader
 require_once '../vendor/autoload.php';
 
-/**
- * Error and Exception handling
- */
+// Error and Exception handling
 error_reporting(E_ALL);
 set_error_handler('Core\Error::errorHandler');
 set_exception_handler('Core\Error::exceptionHandler');
 
-/**
- * Routing
- */
+// Routing
 $router = new Core\Router();
 
 // Add the routes

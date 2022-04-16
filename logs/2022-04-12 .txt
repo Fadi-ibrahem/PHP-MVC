@@ -1,0 +1,176 @@
+[12-Apr-2022 09:07:20 Europe/Berlin] Uncaught exception: 'Error' with message 'Call to a member function query() on null'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\App\Controllers\Posts.php(20): App\Models\Post::getAll()
+#1 [internal function]: App\Controllers\Posts->indexAction()
+#2 C:\xampp\htdocs\mvc\daveh\Core\Controller.php(34): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\mvc\daveh\Core\Router.php(112): Core\Controller->__call('index', Array)
+#4 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('posts/index')
+#5 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\App\Models\Post.php' on line 23
+[12-Apr-2022 09:08:16 Europe/Berlin] Uncaught exception: 'Error' with message 'Call to a member function query() on null'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\App\Controllers\Posts.php(20): App\Models\Post::getAll()
+#1 [internal function]: App\Controllers\Posts->indexAction()
+#2 C:\xampp\htdocs\mvc\daveh\Core\Controller.php(34): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\mvc\daveh\Core\Router.php(112): Core\Controller->__call('index', Array)
+#4 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('posts/index')
+#5 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\App\Models\Post.php' on line 23
+[12-Apr-2022 09:08:17 Europe/Berlin] Uncaught exception: 'Error' with message 'Call to a member function query() on null'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\App\Controllers\Posts.php(20): App\Models\Post::getAll()
+#1 [internal function]: App\Controllers\Posts->indexAction()
+#2 C:\xampp\htdocs\mvc\daveh\Core\Controller.php(34): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\mvc\daveh\Core\Router.php(112): Core\Controller->__call('index', Array)
+#4 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('posts/index')
+#5 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\App\Models\Post.php' on line 23
+[12-Apr-2022 09:08:17 Europe/Berlin] Uncaught exception: 'Error' with message 'Call to a member function query() on null'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\App\Controllers\Posts.php(20): App\Models\Post::getAll()
+#1 [internal function]: App\Controllers\Posts->indexAction()
+#2 C:\xampp\htdocs\mvc\daveh\Core\Controller.php(34): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\mvc\daveh\Core\Router.php(112): Core\Controller->__call('index', Array)
+#4 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('posts/index')
+#5 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\App\Models\Post.php' on line 23
+[12-Apr-2022 09:08:17 Europe/Berlin] Uncaught exception: 'Error' with message 'Call to a member function query() on null'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\App\Controllers\Posts.php(20): App\Models\Post::getAll()
+#1 [internal function]: App\Controllers\Posts->indexAction()
+#2 C:\xampp\htdocs\mvc\daveh\Core\Controller.php(34): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\mvc\daveh\Core\Router.php(112): Core\Controller->__call('index', Array)
+#4 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('posts/index')
+#5 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\App\Models\Post.php' on line 23
+[12-Apr-2022 09:09:10 Europe/Berlin] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Products not found'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('products/index')
+#1 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\Core\Router.php' on line 118
+[12-Apr-2022 09:09:23 Europe/Berlin] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Products not found'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('products/index')
+#1 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\Core\Router.php' on line 118
+[12-Apr-2022 09:19:57 Europe/Berlin] Uncaught exception: 'Error' with message 'Call to a member function query() on null'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\App\Controllers\Posts.php(20): App\Models\Post::getAll()
+#1 [internal function]: App\Controllers\Posts->indexAction()
+#2 C:\xampp\htdocs\mvc\daveh\Core\Controller.php(34): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\mvc\daveh\Core\Router.php(112): Core\Controller->__call('index', Array)
+#4 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('posts/index')
+#5 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\App\Models\Post.php' on line 23
+[12-Apr-2022 09:19:57 Europe/Berlin] Uncaught exception: 'Error' with message 'Call to a member function query() on null'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\App\Controllers\Posts.php(20): App\Models\Post::getAll()
+#1 [internal function]: App\Controllers\Posts->indexAction()
+#2 C:\xampp\htdocs\mvc\daveh\Core\Controller.php(34): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\mvc\daveh\Core\Router.php(112): Core\Controller->__call('index', Array)
+#4 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('posts/index')
+#5 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\App\Models\Post.php' on line 23
+[12-Apr-2022 09:19:57 Europe/Berlin] Uncaught exception: 'Error' with message 'Call to a member function query() on null'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\App\Controllers\Posts.php(20): App\Models\Post::getAll()
+#1 [internal function]: App\Controllers\Posts->indexAction()
+#2 C:\xampp\htdocs\mvc\daveh\Core\Controller.php(34): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\mvc\daveh\Core\Router.php(112): Core\Controller->__call('index', Array)
+#4 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('posts/index')
+#5 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\App\Models\Post.php' on line 23
+[12-Apr-2022 09:19:58 Europe/Berlin] Uncaught exception: 'Error' with message 'Call to a member function query() on null'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\App\Controllers\Posts.php(20): App\Models\Post::getAll()
+#1 [internal function]: App\Controllers\Posts->indexAction()
+#2 C:\xampp\htdocs\mvc\daveh\Core\Controller.php(34): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\mvc\daveh\Core\Router.php(112): Core\Controller->__call('index', Array)
+#4 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('posts/index')
+#5 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\App\Models\Post.php' on line 23
+[12-Apr-2022 09:19:58 Europe/Berlin] Uncaught exception: 'Error' with message 'Call to a member function query() on null'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\App\Controllers\Posts.php(20): App\Models\Post::getAll()
+#1 [internal function]: App\Controllers\Posts->indexAction()
+#2 C:\xampp\htdocs\mvc\daveh\Core\Controller.php(34): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\mvc\daveh\Core\Router.php(112): Core\Controller->__call('index', Array)
+#4 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('posts/index')
+#5 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\App\Models\Post.php' on line 23
+[12-Apr-2022 09:19:58 Europe/Berlin] Uncaught exception: 'Error' with message 'Call to a member function query() on null'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\App\Controllers\Posts.php(20): App\Models\Post::getAll()
+#1 [internal function]: App\Controllers\Posts->indexAction()
+#2 C:\xampp\htdocs\mvc\daveh\Core\Controller.php(34): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\mvc\daveh\Core\Router.php(112): Core\Controller->__call('index', Array)
+#4 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('posts/index')
+#5 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\App\Models\Post.php' on line 23
+[12-Apr-2022 09:19:58 Europe/Berlin] Uncaught exception: 'Error' with message 'Call to a member function query() on null'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\App\Controllers\Posts.php(20): App\Models\Post::getAll()
+#1 [internal function]: App\Controllers\Posts->indexAction()
+#2 C:\xampp\htdocs\mvc\daveh\Core\Controller.php(34): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\mvc\daveh\Core\Router.php(112): Core\Controller->__call('index', Array)
+#4 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('posts/index')
+#5 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\App\Models\Post.php' on line 23
+[12-Apr-2022 09:19:58 Europe/Berlin] Uncaught exception: 'Error' with message 'Call to a member function query() on null'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\App\Controllers\Posts.php(20): App\Models\Post::getAll()
+#1 [internal function]: App\Controllers\Posts->indexAction()
+#2 C:\xampp\htdocs\mvc\daveh\Core\Controller.php(34): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\mvc\daveh\Core\Router.php(112): Core\Controller->__call('index', Array)
+#4 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('posts/index')
+#5 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\App\Models\Post.php' on line 23
+[12-Apr-2022 09:19:59 Europe/Berlin] Uncaught exception: 'Error' with message 'Call to a member function query() on null'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\App\Controllers\Posts.php(20): App\Models\Post::getAll()
+#1 [internal function]: App\Controllers\Posts->indexAction()
+#2 C:\xampp\htdocs\mvc\daveh\Core\Controller.php(34): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\mvc\daveh\Core\Router.php(112): Core\Controller->__call('index', Array)
+#4 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('posts/index')
+#5 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\App\Models\Post.php' on line 23
+[12-Apr-2022 09:19:59 Europe/Berlin] Uncaught exception: 'Error' with message 'Call to a member function query() on null'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\App\Controllers\Posts.php(20): App\Models\Post::getAll()
+#1 [internal function]: App\Controllers\Posts->indexAction()
+#2 C:\xampp\htdocs\mvc\daveh\Core\Controller.php(34): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\mvc\daveh\Core\Router.php(112): Core\Controller->__call('index', Array)
+#4 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('posts/index')
+#5 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\App\Models\Post.php' on line 23
+[12-Apr-2022 09:20:07 Europe/Berlin] Uncaught exception: 'Error' with message 'Call to a member function query() on null'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\App\Controllers\Posts.php(20): App\Models\Post::getAll()
+#1 [internal function]: App\Controllers\Posts->indexAction()
+#2 C:\xampp\htdocs\mvc\daveh\Core\Controller.php(34): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\mvc\daveh\Core\Router.php(112): Core\Controller->__call('index', Array)
+#4 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('posts/index')
+#5 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\App\Models\Post.php' on line 23
+[12-Apr-2022 09:20:07 Europe/Berlin] Uncaught exception: 'Error' with message 'Call to a member function query() on null'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\App\Controllers\Posts.php(20): App\Models\Post::getAll()
+#1 [internal function]: App\Controllers\Posts->indexAction()
+#2 C:\xampp\htdocs\mvc\daveh\Core\Controller.php(34): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\mvc\daveh\Core\Router.php(112): Core\Controller->__call('index', Array)
+#4 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('posts/index')
+#5 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\App\Models\Post.php' on line 23
+[12-Apr-2022 09:20:07 Europe/Berlin] Uncaught exception: 'Error' with message 'Call to a member function query() on null'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\App\Controllers\Posts.php(20): App\Models\Post::getAll()
+#1 [internal function]: App\Controllers\Posts->indexAction()
+#2 C:\xampp\htdocs\mvc\daveh\Core\Controller.php(34): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\mvc\daveh\Core\Router.php(112): Core\Controller->__call('index', Array)
+#4 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('posts/index')
+#5 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\App\Models\Post.php' on line 23
+[12-Apr-2022 09:20:07 Europe/Berlin] Uncaught exception: 'Error' with message 'Call to a member function query() on null'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\App\Controllers\Posts.php(20): App\Models\Post::getAll()
+#1 [internal function]: App\Controllers\Posts->indexAction()
+#2 C:\xampp\htdocs\mvc\daveh\Core\Controller.php(34): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\mvc\daveh\Core\Router.php(112): Core\Controller->__call('index', Array)
+#4 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('posts/index')
+#5 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\App\Models\Post.php' on line 23
+[12-Apr-2022 09:20:08 Europe/Berlin] Uncaught exception: 'Error' with message 'Call to a member function query() on null'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\App\Controllers\Posts.php(20): App\Models\Post::getAll()
+#1 [internal function]: App\Controllers\Posts->indexAction()
+#2 C:\xampp\htdocs\mvc\daveh\Core\Controller.php(34): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\mvc\daveh\Core\Router.php(112): Core\Controller->__call('index', Array)
+#4 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('posts/index')
+#5 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\App\Models\Post.php' on line 23
+[12-Apr-2022 09:20:08 Europe/Berlin] Uncaught exception: 'Error' with message 'Call to a member function query() on null'
+Stack trace: #0 C:\xampp\htdocs\mvc\daveh\App\Controllers\Posts.php(20): App\Models\Post::getAll()
+#1 [internal function]: App\Controllers\Posts->indexAction()
+#2 C:\xampp\htdocs\mvc\daveh\Core\Controller.php(34): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\mvc\daveh\Core\Router.php(112): Core\Controller->__call('index', Array)
+#4 C:\xampp\htdocs\mvc\daveh\public\index.php(30): Core\Router->dispatch('posts/index')
+#5 {main}
+Trown in 'C:\xampp\htdocs\mvc\daveh\App\Models\Post.php' on line 23
